@@ -5,10 +5,12 @@ The best Python Backdoor
 Server file is used in all of cases
 If client is Windows, the client need execute EXE file
 If client is Linux, the client need execute PY file
+.
 !!!!
 If you exexute PY fie in Windows run correctly, but you dont create persistence and i don't do all the tests.
 Persistence don't work in all Systems
 !!!!
+
 
 # Features
 - Shell in victim computer
